@@ -1,5 +1,5 @@
 <?php
-  echo "git kullanımı deneme dosyası";
+  echo "git kullanımı ";
 
   function selamVer(){
   	echo "Merhaba";
